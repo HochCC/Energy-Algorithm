@@ -215,10 +215,10 @@ if __name__ == '__main__':
     # stack model scoring 
     print("cross validated scores")
     for model, label in zip([ridge, lasso, elastic, xgboost, gbm, svr
-#                             , stack_model1
+                             , stack_model1
                              ],
                             ['RidgeCV', 'LassoCV', 'ElasticNetCV', 'xgboost', 'gbm', 'svr'
-#                             , 'StackingCVRegressor'
+                             , 'StackingCVRegressor'
                              ]): 
         SG_scores = cross_val_score(model, stackX, stacky, cv=kfolds,
                                     scoring='neg_mean_squared_error')

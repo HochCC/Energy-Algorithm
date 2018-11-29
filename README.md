@@ -1,7 +1,7 @@
 # Energy-Algorithm
 <b>Energy Algorithm: 2nd place</b>
 
-I hope this summary will give you some insights about machine learning especially for regression problems. <br/>
+I hope this summary will give you some insights about machine learning <br/>
 This is the 2nd place algorithm of the New energy vehicle power calculation competition. (Prize 50,000¥) <br/>
 You can see the "New energy vehicle big data competition.pdf" for competition description <br/>
 "runner-up presentation.pdf" for solution introduction <br/>

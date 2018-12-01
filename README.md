@@ -6,7 +6,7 @@ This is the 2nd place algorithm of the New energy vehicle power calculation comp
 You can see the "New energy vehicle big data competition.pdf" for competition description <br/>
 [Energy_Algorithm_ppt](https://github.com/XinjieInformatik/Energy-Algorithm/blob/master/runner-up%20presentation.pdf)
 for Algorithm introduction <br/>
-Trainingset and testset data are in the dataset, energy_test1029.csv, energy_train1029.csv <br/>
+Trainingset and testset data are in the dataset, energy_train1029.csv, energy_test1029.csv <br/>
 Short description of the files in folder "Models": <br/>
 featureEngineering.py for feature engineering,  <br/>
 feature_list.py for feature list,  <br/>

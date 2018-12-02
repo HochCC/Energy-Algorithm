@@ -13,8 +13,8 @@ feature_list.py for feature list,  <br/>
 model_submit_m.py for algorithm main module,  <br/>
 model_submit using mlxtend API,  <br/>
 EDA.py for data analysis,  <br/>
-Outlier.py exception detection,  <br/>
-clus.py feature aggregation Class,  <br/>
+Outlier.py outlier detection,  <br/>
+clus.py feature classifikation,  <br/>
 tunning.py automated tuning framework <br/><br/><br/>
 
 ![Image text](https://github.com/XinjieInformatik/Energy-Algorithm/blob/master/pic/features.PNG)
